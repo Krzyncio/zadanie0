@@ -30,6 +30,8 @@ public class Main {
 
         System.out.println("Moja żona ma na inię " + wife.firstName + " i ma " + wife.age + " lat");
         System.out.println("Nie dość, że ma " + wife.hairColor + " kolo włosów, to jeszcze waży, AŻ " + wife.weight + " kg!!!");
+        System.out.println("Nie dość, że ma " + wife.hairColor + " kolo włosów, to jeszcze waży, AŻ " + wife.weight + " kg!!!");
+        System.out.println("Nie dość, że ma " + wife.hairColor + " kolo włosów, to jeszcze waży, AŻ " + wife.weight + " kg!!!");
 
 
     }
